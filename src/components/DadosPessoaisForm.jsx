@@ -1,4 +1,4 @@
-function DadosPessoaisForm() {
+export const DadosPessoaisForm = () => {
   return (
     <div>
       <div className="col-12">
@@ -35,4 +35,3 @@ function DadosPessoaisForm() {
   );
 }
 
-export default DadosPessoaisForm;
